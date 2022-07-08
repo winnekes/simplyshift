@@ -22,7 +22,7 @@
     "date-arithmetic": "^4.1.0",
     "framer-motion": "^4.1.2",
     "idb-keyval": "^5.0.6",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.33",
     "next": "^11.0.0",
     "next-pwa": "^5.2.21",
